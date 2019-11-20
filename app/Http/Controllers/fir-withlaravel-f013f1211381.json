@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fir-withlaravel",
+  "private_key_id": "f013f121138137384d3691a10d1da6a5359d1df9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDGyy+1g3q5j/oH\n/XNITNqixY/SmaccnqeQVfDrgtrheu4KWlz3q4Y0Ip3S2z1ejs/wEmElVCjB0Dzh\nf1UuO8GRdTwuSnffo7p0x48ewYLz3htBZ9CQiuoqUqiflXHUzbGqZzt9vfsiBnmI\nD/N8VLaX6hXaF4yChm347SmBDa49l3zvZavVRDbxYhvXv+vxGHidXwo8y1FONONc\nk0DMKSVMnAJivxm/QGX6OMugJOFw2x4Ej8gs63SEeyzv9xz/LV+F9Fm7VX467aZi\nrtAqvWbye3fcKGTF39m1TdNEo0bc/mHnanNP7UoSlFm8dWX8cepRUX/a2FUhl5kj\nDwfKQZsvAgMBAAECggEASIzzFn2rlnlzOONI5YQW7vzHJocpNAq7ALQ8vtb85vmk\nUmb0MveIfRJ9Iu0ckpvwS5+JkMQMM9+5uFpuTfdFB78PfZ1z7kykyeXi18ir8DCJ\nJe+rcHUiTNvp6oPyDUYcpyIR1iw1sQ9H315i8GdCVGL8IqIhh6lkDUsQsKa7hoJU\nO0NfLVHFIpt+A5ku+k1vQNieRachJxawjXl7pUaVR880mpwn2CYgOaVY84Zec+/P\nKwhCBzaLOlEN9HintoEvG/cnZhlF67UzJzyiIm91P3vQYnnl2YA4Sp+7p7pMQNta\nzDCA2YbrfPk+k08O5aTAeBOHGEppX/fWvuUpZQgfYQKBgQDohg1vICJ+1OMSX783\nWb/ptjN1dfo2I/L+5ZQ/F1HOnvPV0UVAfikC7cm2s39I6rhdVQYlPB8UGBVp6Mby\nJQSlWYGWQ1o17KI5k8sIcVhRThEVR5CLOC2sH2ow65ilY52XDlAuZ+RWiHGAWtrq\nFjoG+V99LqE6hSV7wwn+Gi3veQKBgQDa3VRFsNyXwxiZsaM3mrPMH10VFYjqNMUI\nRq5rtAD9WE3bE2e2Zrlokun4S2urjRGSpxwRGp7XIm9kTzxd+tZRA0Jpwxxw3FCI\nLq+ejFEziXmQTTMWCIES520aghQHRV1UBo5YaEiacm5rN7cEQEH4JEqkYQ/5+8xx\nQlnuzJht5wKBgG8LZesGC7NKc87YjvceE3rHmrejygSFEo0Mksm2l0j3vDcGo+3y\n0h8l9EkeW9E01ysraa3qkmUEQ2W61xfY+ekFX8+lBrXt9mNM4496odTiVWI2NR9n\nithCgHIwcUu60Q3MthoTX4a7zoif2yAj0T53ZVThKfpKj+YU9Pa3BezxAoGAKJzD\nY38zH9IrAXIOCGZjkLANNLlfQ55xJV0ARqoLOPem0s0iBJ3BL997HQDZxOaTaTQr\nKB1ZdjBEnUd6uzGtjTDepQN4hpTLOMn4+qGs+7Q544X/wcnoMZrSCwYyMzsy20Gw\nLkWDm206ghi/lEFcPHB3jVMZhNitkiKuz3oVmucCgYBch3KCQPgqDHqV8Xqm6y+n\nqYTVEVS8oqycAEpYmQV8Qw+VX1hAlXUueWMI2mjiud72o5wk3ZBgQB0MZrqMusX7\nxYLp84pLBNR9eJaL1n0BAOx5H3w7Q7fIYlB4e6x20mE3eT96SYQzEpvYsM4uaHCH\nFRlRNYsj1oXx5XHUE2UeHg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fir-withlaravel@appspot.gserviceaccount.com",
+  "client_id": "116370654172393441377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fir-withlaravel%40appspot.gserviceaccount.com"
+}
