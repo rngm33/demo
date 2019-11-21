@@ -1,5 +1,6 @@
 <?php
-
+$DATABASE_URL = parse_url('postgres://hjmosnnfkdhorj:02f3353d7b6b26cfacdcb67a44155a0539d8757a1e58dfe6f0243c0723c95d04@ec2-107-22-253-158.compute-1.amazonaws.com:5432/d4onm7qcia6qc5
+');
 return [
 
     /*
@@ -56,16 +57,17 @@ return [
 
         'pgsql' => [
             'driver' => 'pgsql',
-            'host' => env('DB_HOST', '127.0.0.1'),
-            'port' => env('DB_PORT', '5432'),
-            'database' => env('DB_DATABASE', 'forge'),
-            'username' => env('DB_USERNAME', 'forge'),
-            'password' => env('DB_PASSWORD', ''),
+            'host' => $DATABASE_URL["host"],
+            'port' => $DATABASE_URL["port"],
+            'database' => ltrim($DATABASE_URL["path"], "/"),
+            'username' => $DATABASE_URL["user"],
+            'password' => $DATABASE_URL["pass"],
             'charset' => 'utf8',
             'prefix' => '',
             'schema' => 'public',
-            'sslmode' => 'prefer',
+            'sslmode' => 'require',
         ],
+
 
         'sqlsrv' => [
             'driver' => 'sqlsrv',
