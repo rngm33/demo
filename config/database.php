@@ -41,10 +41,10 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => env('DB_HOST', 'https://phplaravel-344509-1064601.cloudwaysapps.com/'),
+            'host' => env('DB_HOST', 'https://phplaravel-344509-1064601.cloudwaysapps.com'),
             'port' => env('DB_PORT', '8082'),
             'database' => env('DB_DATABASE', 'xrxttwwurh'),
-            'username' => env('DB_USERNAME', 'forgexrxttwwurh'),
+            'username' => env('DB_USERNAME', 'xrxttwwurh'),
             'password' => env('DB_PASSWORD', 'C48Jh3mGke'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
